@@ -1,5 +1,3 @@
 git init
 git add commands.txt
 git --commit -m "Add the commands"
-git remote -v
-git clone
